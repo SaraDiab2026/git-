@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::GL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL__GL-Debug-f38ddaaf1686159ae711.json",
+					"name" : "OpenGL::GL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::GLU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL__GLU-Debug-8b8d10cc7bca56a86754.json",
+					"name" : "OpenGL::GLU",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-99a74fdd381cf5e91560.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GLSolution",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GLProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GLProject-Debug-009491d7509089b2c3cd.json",
+					"name" : "GLProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL.SharedModule::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL.SharedModule-Debug-2e6aa643596c6bfb191f.json",
+					"name" : "OpenGL.SharedModule",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/Sara/Downloads/Telegram Desktop/L2O/build",
+		"source" : "D:/Users/Sara/Downloads/Telegram Desktop/L2O"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 12
+	}
+}

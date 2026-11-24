@@ -1,0 +1,4 @@
+D:/Users/Sara/Downloads/Telegram Desktop/L2O/build/CMakeFiles/OpenGL.SharedModule.dir
+D:/Users/Sara/Downloads/Telegram Desktop/L2O/build/CMakeFiles/GLProject.dir
+D:/Users/Sara/Downloads/Telegram Desktop/L2O/build/CMakeFiles/edit_cache.dir
+D:/Users/Sara/Downloads/Telegram Desktop/L2O/build/CMakeFiles/rebuild_cache.dir
